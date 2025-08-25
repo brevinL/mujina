@@ -1,0 +1,8 @@
+mujina\api\IdpControllerTest.class
+mujina\idp\MetadataControllerTest.class
+mujina\AbstractIntegrationTest.class
+mujina\idp\AuthenticationProviderTest.class
+mujina\MujinaIdpApplicationTest.class
+mujina\idp\UserControllerTest.class
+mujina\api\IdpControllerTest$1.class
+mujina\idp\SsoControllerTest.class
