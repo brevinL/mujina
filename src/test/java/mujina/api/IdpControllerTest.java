@@ -54,7 +54,7 @@ public class IdpControllerTest extends AbstractIntegrationTest {
 
     @Test
     public void addUser() {
-        User user = new User("Bob", "secret", Arrays.asList("USER", "ADMIN"));
+        User user = new User("bob", "secret", Arrays.asList("USER", "ADMIN"));
         api(user, "/api/users");
 
         assertTrue(idpConfiguration.getUsers().stream()
